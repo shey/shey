@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Shey, and I am a Rails 🛤️ Production Engineer-- I make Rails app faster🏃, easier to work on, and more reliable 💪.
+Hi, my name is Shey, and I am a Rails Production Engineer-- I make Rails app faster🏃, easier to work on, and more reliable 💪.
 
 🥇I focus on the fundamentals: improving database performance using Postgresql, moving work to a background job processor like Sidekiq for managing 
 ⚡ asynchronous tasks within the Rails application, and finally, caching to optimize overall performance ✨.
