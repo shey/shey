@@ -4,4 +4,4 @@ My name is Shey and I'm a team-builder, backend Ruby on Rails developer and data
 * I make Rails apps faster 🚀 and more reliable 💪,
 * build monitoring and alerting systems 🕵️,
 * speed-up data pipelines ⚡️,
-* automate processes 🤖.
+* and automate processes 🤖.
