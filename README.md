@@ -1,6 +1,6 @@
 ## Hi, I’m Shey — Backend-focused Rails Developer
 
-I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure tooling** to make systems more reliable, maintainable, and fast.
+I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure tooling** to make software systems more reliable, maintainable, and fast.
 
 ### 🔧 What I’m building / maintaining
 - [**Open Source Rails**](https://github.com/shey/opensourcerails): A curated list of open-source Rails apps
@@ -8,7 +8,7 @@ I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure to
 - [**HTTP Scout**](https://httpscout.io): Rails-based up-time monitoring
 
 ### ✍️ Writing
-I blog at [**shey.ca**](https://shey.ca) about performance tuning, infrastructure, developer experience, and lessons from programming.
+I blog at [**shey.ca**](https://shey.ca) about performance tuning, infrastructure, developer experience, and share lessons from programming.
 
 Recent posts:
 - [**Performance First Rails**](https://shey.ca/2025/06/07/performance-first-rails.html)
