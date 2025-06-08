@@ -1,4 +1,4 @@
-## Hey, I’m Shey — Backend-focused Rails Developer
+## Hi, I’m Shey — Backend-focused Rails Developer
 
 I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure tooling** to make systems more reliable, maintainable, and fast.
 
