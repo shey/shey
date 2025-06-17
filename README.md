@@ -20,4 +20,4 @@ Toronto, Canada  🇨🇦
 
 ---
 
-📫 [Email](mailto:me@shey.ca) · [Website](https://shey.ca) · [Mastodon](https://ruby.social/@shey) · [LinkedIn](https://www.linkedin.com/in/sheysewani/)
+📫 [Email](mailto:shey@shey.ca) · [Website](https://shey.ca) · [Mastodon](https://ruby.social/@shey) · [LinkedIn](https://www.linkedin.com/in/sheysewani/)
