@@ -5,7 +5,7 @@ I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure to
 ### 🔧 What I’m building / maintaining
 - [**Open Source Rails**](https://github.com/shey/opensourcerails.dev): A curated list of open-source Rails apps
 - [**osr-infra**](https://github.com/shey/osr-infra): Ansible repo with roles+playbooks for setting-up Rails servers on DigitalOcean
-- [**HTTP Scout**](https://httpscout.io): Rails-based up-time monitoring
+- [**HTTPScout.io**](https://httpscout.io): Rails-based up-time monitoring
 
 ### ✍️ Writing
 I blog at [**shey.ca**](https://shey.ca) about performance tuning, infrastructure, developer experience, and share lessons from programming.
