@@ -11,8 +11,8 @@ I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure to
 I blog at [**shey.ca**](https://shey.ca) about performance tuning, infrastructure, developer experience, and share lessons from programming.
 
 Recent posts:
+- [**Five PostgreSQL Anti-Patterns**](https://shey.ca/2025/09/12/five-db-anti-patterns.html)
 - [**Performance First Rails**](https://shey.ca/2025/06/07/performance-first-rails-lessons-from-production.html)
-- [**Docker Pruning with systemd**](https://shey.ca/2025/04/10/daily-docker-prune-with-systemd.html)
 - [**High Performance Indexing in PostgreSQL**](https://shey.ca/2024/04/09/high-performance-indexing-in-postgresql.html)
 
 ### 📍 Location
