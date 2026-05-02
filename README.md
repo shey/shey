@@ -1,13 +1,15 @@
 ## Hi, I’m Shey — Backend-focused Rails Developer
 
-I work primarily with **Ruby on Rails**, **PostgreSQL**, and **infrastructure tooling** to make software systems more reliable, maintainable, and performant.
+I’m a backend-focused software developer working primarily with Ruby on Rails, PostgreSQL, and production systems.
 
-### 🔧 What I’m building / maintaining
-- [**Open Source Rails**](https://github.com/shey/opensourcerails.dev): (Retired) A curated list of open-source Rails apps
-- [**osr-infra**](https://github.com/shey/osr-infra): Ansible repo with roles+playbooks for setting-up Rails servers on DigitalOcean
+My work focuses on improving reliability, scalability, and performance in mature applications; especially where database design, application architecture, and operational constraints meet.
+
+### 🔧 Projects
+- [**Open Source Rails**](https://github.com/shey/opensourcerails.dev): Retired project — a curated list of open-source Rails applications
+- [**osr-infra**](https://github.com/shey/osr-infra): Retired infrastructure repo with Ansible roles and playbooks for deploying Rails applications on DigitalOcean
 
 ### ✍️ Writing
-I blog at [**shey.ca**](https://shey.ca) about performance tuning, infrastructure, developer experience, and share lessons from programming.
+I write at [**shey.ca**](https://shey.ca) about Rails, PostgreSQL, performance tuning, production systems, and software design.
 
 Recent posts:
 - [**Five PostgreSQL Anti-Patterns**](https://shey.ca/2025/09/12/five-db-anti-patterns.html)
@@ -15,7 +17,7 @@ Recent posts:
 - [**High Performance Indexing in PostgreSQL**](https://shey.ca/2024/04/09/high-performance-indexing-in-postgresql.html)
 
 ### 📍 Location
-Toronto, Canada  🇨🇦
+Toronto, Canada 🇨🇦
 
 ---
 
