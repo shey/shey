@@ -1,6 +1,6 @@
 ## Hi, I’m Shey — Backend & Production Systems Developer
 
-I’m a backend-focused software developer working primarily with Ruby on Rails, PostgreSQL, Redis and production systems.
+I’m a backend-focused software developer working primarily with Ruby on Rails, PostgreSQL, Redis, and background job systems.
 
 My work focuses on high-throughput data processing, reliability, and performance in mature applications, especially where database design, application architecture, and operational constraints meet.
 
